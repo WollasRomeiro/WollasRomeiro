@@ -1,4 +1,4 @@
-## Oiii eu sou Wollas Romeiro, fascinado por programação e tecnologia!
+## Oiii eu sou Wollas Romeiro!
 <div align="center">
   <a href="https://github.com/WollsRomeiro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WollasRomeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
